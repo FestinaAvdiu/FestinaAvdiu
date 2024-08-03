@@ -14,7 +14,7 @@
 
 
 ### Tech Skills
-  SQL | T-SQL programming | MySQL | SQL Server | Database Management | Java | C# | OOP | Agile methodologies | Scrum | HTML | CSS | Computer Networks | TCP/IP architecture
+  SQL | T-SQL programming | MySQL | SQL Server | Database Management | Java | C | C# | OOP | Agile methodologies | Scrum | HTML | CSS | Computer Networks | TCP/IP architecture
   
 ### Tools
 Microsoft Office | Microsoft SQL Server | Dia Diagram | VS Code | IntelliJ | GitHub | Matlab | Cisco Packet Tracer | Tina-TI | AutoCAD
