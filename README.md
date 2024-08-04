@@ -10,7 +10,7 @@
 - [Car Service App](https://github.com/FestinaAvdiu/Java-Project)
 - [HR Management](https://github.com/FestinaAvdiu/Java-Project)
 - [Photography Website](https://github.com/FestinaAvdiu/Java-Project)
-- [Poets Club Management](https://github.com/FestinaAvdiu/Java-Project)
+- [Poets Club Management](https://github.com/FestinaAvdiu/Poets-Club-Management-System-)
 
 
 ### Tech Skills
