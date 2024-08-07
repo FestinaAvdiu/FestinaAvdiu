@@ -14,10 +14,11 @@
 
 
 ### Tech Skills
-  SQL | T-SQL programming | MySQL | SQL Server | Database Management | Java | C | C# | OOP | Agile methodologies | Scrum | HTML | CSS | Computer Networks | TCP/IP architecture
+  SQL | T-SQL programming | MySQL | Microsoft SQL Server | Database Management | Java | C | C# | OOP | Agile methodologies | Scrum | HTML | CSS | JavaScript | Computer Networks | TCP/IP architecture
   
 ### Tools
-Microsoft Office | Microsoft SQL Server | Dia Diagram | VS Code | IntelliJ | GitHub | Matlab | Cisco Packet Tracer | Tina-TI | AutoCAD
+Microsoft Office | Microsoft SQL Server | Dia Diagram | VS | VS Code | IntelliJ | GitHub | Matlab | Cisco Packet Tracer | Tina-TI | AutoCAD
+
 
 ### Tech Skills
 <p align="left"> 
@@ -27,8 +28,8 @@ Microsoft Office | Microsoft SQL Server | Dia Diagram | VS Code | IntelliJ | Git
   <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/de/thumb/8/8a/Microsoft_SQL_Server_Logo.svg/1200px-Microsoft_SQL_Server_Logo.svg.png" alt="SQL Server" width="40" height="40"/>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> 
+    <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="sql server" width="40" height="40"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
@@ -41,26 +42,48 @@ Microsoft Office | Microsoft SQL Server | Dia Diagram | VS Code | IntelliJ | Git
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a>
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+    <img src="https://img.shields.io/badge/T--SQL-1E90FF?style=for-the-badge&logo=tsql&logoColor=white" alt="T-SQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.oracle.com/database/" target="_blank">
+  <img src="https://img.shields.io/badge/Database%20Management-1E90FF?style=for-the-badge&logo=database&logoColor=white" alt="Database Management" width="100" height="40"/>
+ </a>
+  <a href="https://www.oracle.com/database/" target="_blank">
+    <img src="https://img.shields.io/badge/OOP-1E90FF?style=for-the-badge&logo=oop&logoColor=white" alt="OOP" width="60" height="40"/>
+  </a>
+  <a href="https://www.agilealliance.org/agile101/" target="_blank">
+    <img src="https://img.shields.io/badge/Agile-1E90FF?style=for-the-badge&logo=agile&logoColor=white" alt="Agile" width="60" height="40"/>
+  </a>
+  <a href="https://www.scrum.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Scrum-1E90FF?style=for-the-badge&logo=scrum&logoColor=white" alt="Scrum" width="60" height="40"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Computer_network" target="_blank">
+    <img src="https://img.shields.io/badge/Computer%20Networks-1E90FF?style=for-the-badge&logo=computer-networks&logoColor=white" alt="Computer Networks" width="100" height="40"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Internet_protocol_suite" target="_blank">
+    <img src="https://img.shields.io/badge/TCP/IP%20Architecture-1E90FF?style=for-the-badge&logo=tcp-ip&logoColor=white" alt="TCP/IP Architecture" width="100" height="40"/>
   </a>
 </p>
-<ul>
-  <li>SQL</li>
-  <li>T-SQL programming</li>
-  <li>Database Management</li>
-  <li>OOP</li>
-  <li>Agile methodologies</li>
-  <li>Scrum</li>
-  <li>Computer Networks</li>
-  <li>TCP/IP architecture</li>
-</ul>
+
+
 
 ### Tools
 <p align="left">
   <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftoffice/microsoftoffice-original.svg" alt="Microsoft Office" width="40" height="40"/>
+    <img src="https://img.icons8.com/fluency/48/000000/microsoft-office-2019.png" alt="microsoft office" width="40" height="40"/>
+  </a>
+ <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="sql server" width="40" height="40"/>
   </a>
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  </a>
+  <a href="https://visualstudio.microsoft.com/vs/2022/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Visual_Studio_2022_Icon.svg/1024px-Visual_Studio_2022_Icon.svg.png" alt="Visual Studio 2022" width="40" height="40"/>
   </a>
   <a href="https://www.jetbrains.com/idea/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ" width="40" height="40"/>
@@ -72,16 +95,26 @@ Microsoft Office | Microsoft SQL Server | Dia Diagram | VS Code | IntelliJ | Git
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="40" height="40"/>
   </a>
   <a href="https://www.cisco.com/c/en/us/products/index.html" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Cisco_logo.svg" alt="Cisco Packet Tracer" width="40" height="40"/>
+  <img src="https://github.com/user-attachments/assets/56f9411e-831e-47cb-90c9-4df0469f4de2" alt="Screenshot-2020-02-15-at-15 54 25"
+-attachments/assets/cisco_packet_tracer_logo.png" width="40" height="40"/>
   </a>
+
+
   <a href="https://www.autodesk.com/products/autocad/overview" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/AutoCAD_logo.svg/1024px-AutoCAD_logo.svg.png" alt="AutoCAD" width="40" height="40"/>
+    <img src="https://github.com/user-attachments/assets/1b479564-1004-429d-b396-32476f6132af" alt="AutoCAD" width="40" height="40"/>
   </a>
+
+
+
+  <a href="https://sourceforge.net/projects/dia-installer/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/5786f87f-96c4-42d7-8d4c-e891c168f43f" alt="Dia Diagram" width="40" height="40"/>
+  </a>
+  
+  <a href="https://www.ti.com/tool/TINA-TI" target="_blank">
+  <img src="https://github.com/user-attachments/assets/1e58aa54-606e-4d76-888f-6df5587caa54" alt="Tina-TI" width="40" height="40"/>
+  </a>
+
 </p>
-<ul>
-  <li>Dia Diagram</li>
-  <li>Tina-TI</li>
-</ul>
 
 ## Experience
 - **Software Developer Intern**
@@ -99,53 +132,9 @@ Problem Solving | Project Leadership | Mentorship | Teamwork | Time Management |
 
 
 
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://isocpp.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com/en/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://sass-lang.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-</p>
-
-
-## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/https://www.linkedin.com/in/festina-avdiu-758224247/)
-
 ### Connect with me:
 <p align="left">
-<a href="[Festina Avdiu]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="[festinaavdiu]" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/festina-avdiu-758224247/" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="festinaavdiu" height="30" width="40" />
+</a>
 </p>
