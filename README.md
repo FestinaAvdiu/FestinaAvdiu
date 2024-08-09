@@ -8,7 +8,7 @@
 
 - [NextGen ImpactMakers](https://github.com/FestinaAvdiu/Java-Project)
 - [Car Service App](https://github.com/FestinaAvdiu/Java-Project)
-- [HR Management](https://github.com/FestinaAvdiu/Java-Project)
+- [Payroll Master](https://github.com/FestinaAvdiu/Payroll-Master)
 - [Photography Website](https://github.com/FestinaAvdiu/Java-Project)
 - [Poets Club Management System](https://github.com/FestinaAvdiu/Poets-Club-Management-System-)
 
