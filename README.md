@@ -75,7 +75,7 @@
 
 ### Tools
 
-Microsoft Office  |  VS  &  VS Code  |  IntelliJ  |  Matlab  |  Cisco Packet Tracer  |  AutoCAD  |  Dia Diagram  |  Tina-TI   
+Microsoft Office  |  VS  &  VS Code  |  IntelliJ  |  Matlab  |  Cisco Packet Tracer  |  AutoCAD  |  Dia Diagram  |  Tina-TI  |  GitHub  
 
 <p align="left">
   <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank">
@@ -118,20 +118,19 @@ Microsoft Office  |  VS  &  VS Code  |  IntelliJ  |  Matlab  |  Cisco Packet Tra
 </p>
 
 ## Experience
-- **Software Developer Intern**
-  
-  SHPIK - Kosovo Informatics Society
+-  **Software Developer Intern**
+
+    SHPIK - Kosovo Informatics Society
 - **Logistics Team Leader**
-  
+
   Google Developer Student Club of University of Pecs, Hungary
-- **Professional Mentor & Innovation Lead**
-  
-  Growing with STEM Organization, Kosovo
+-  **Professional Mentor & Innovation Lead**
+
+   Growing with STEM Organization, Kosovo
 
 ### Soft Skills
 Problem Solving | Project Leadership | Mentorship | Teamwork | Time Management | Organizing | Planning | Attention to Detail 
 
-🍋
 
 ### Connect with me:
 <p align="left">
