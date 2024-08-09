@@ -87,6 +87,7 @@ Microsoft Office | Microsoft SQL Server | Dia Diagram | VS | VS Code | IntelliJ 
   <a href="https://visualstudio.microsoft.com/vs/2022/" target="_blank">
     <img src="https://github.com/user-attachments/assets/2259e620-2559-4868-9986-98847fe9f4a3" alt="Visual Studio 2022" width="40" height="40"/>
   </a>
+  
  
   <a href="https://www.jetbrains.com/idea/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ" width="40" height="40"/>
