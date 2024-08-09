@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Festina Avdiu</h1>
-<h2 align="center">A passionate Computer Science Engineering student at University of Pecs, Hungary</h2>
+<h2 align="center">A passionate Computer Science Engineering student at University of Pécs, Hungary</h2>
 
-<h3 align="center"> Welcome to my GitHub profile! A snapshot of my coding journey and accomplishments</h3>
+<h3 align="center"> Welcome to my GitHub profile! A snapshot of my coding journey and accomplishments.</h3>
 
 
 ### My Projects
 
-- [Platform for Youth Engagement](https://github.com/FestinaAvdiu/Java-Project)
+- [NextGen ImpactMakers](https://github.com/FestinaAvdiu/Java-Project)
 - [Car Service App](https://github.com/FestinaAvdiu/Java-Project)
 - [HR Management](https://github.com/FestinaAvdiu/Java-Project)
 - [Photography Website](https://github.com/FestinaAvdiu/Java-Project)
@@ -14,7 +14,7 @@
 
 
 ### Tech Skills
-  SQL | T-SQL programming | MySQL | Microsoft SQL Server | Database Management | Java | C | C# | OOP | Agile methodologies | Scrum | HTML | CSS | JavaScript | Computer Networks | TCP/IP architecture
+  Java  |  SQL  |  MySQL  |  T-SQL  |  Database Management  |  C  |  C#  |  HTML  |  CSS  | JavaScript  |  Microsoft SQL Server 
  
 <p align="left"> 
   <a href="https://www.java.com/en/" target="_blank"> 
@@ -75,7 +75,7 @@
 
 ### Tools
 
-Microsoft Office | Microsoft SQL Server | Dia Diagram | VS | VS Code | IntelliJ | GitHub | Matlab | Cisco Packet Tracer | Tina-TI | AutoCAD 
+Microsoft Office  |  VS  &  VS Code  |  IntelliJ  |  Matlab  |  Cisco Packet Tracer  |  AutoCAD  |  Dia Diagram  |  Tina-TI   
 
 <p align="left">
   <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank">
