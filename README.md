@@ -43,10 +43,6 @@
     <img src="https://github.com/user-attachments/assets/db61f6d2-1330-44ef-91a4-fd90e0bd59ef" alt="sql server" width="42" height="40"/>
   </a>
 
-
-</p>
-
-<p align="left"> 
  
  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
     <img src="https://img.shields.io/badge/T--SQL-1E90FF?style=for-the-badge&logo=tsql&logoColor=white" alt="T-SQL" width="50" height="40"/>
