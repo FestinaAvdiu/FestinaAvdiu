@@ -67,6 +67,12 @@
 </a>
 <a href="https://en.wikipedia.org/wiki/Internet_protocol_suite" target="_blank">
     <img src="https://img.shields.io/badge/System_Theory-000000?style=for-the-badge&logo=tcp-ip&logoColor=white" alt="System Theory" width="100" height="40"/>
+</a
+ <a href="https://en.wikipedia.org/wiki/Internet_protocol_suite" target="_blank">
+    <img src="https://img.shields.io/badge/IP_Addressing-000000?style=for-the-badge&logo=tcp-ip&logoColor=white" alt="IP Addressing" width="100" height="40"/>
+</a>
+<a href="https://en.wikipedia.org/wiki/Internet_protocol_suite" target="_blank">
+    <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=tcp-ip&logoColor=white" alt="Cybersecurity" width="100" height="40"/>
 </a>
 <a href="https://en.wikipedia.org/wiki/Internet_protocol_suite" target="_blank">
     <img src="https://img.shields.io/badge/Project_Management-000000?style=for-the-badge&logo=tcp-ip&logoColor=white" alt="Project Management" width="120" height="40"/>
