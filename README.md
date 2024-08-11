@@ -38,9 +38,10 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
-   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> 
-    <img src="https://github.com/user-attachments/assets/db61f6d2-1330-44ef-91a4-fd90e0bd59ef" alt="sql server" width="42" height="40"/>
-  </a>
+ 
+
+
+
 
  
  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
@@ -120,6 +121,13 @@
   
   <a href="https://www.ti.com/tool/TINA-TI" target="_blank">
   <img src="https://github.com/user-attachments/assets/1e58aa54-606e-4d76-888f-6df5587caa54" alt="Tina-TI" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> 
+    <img src="https://github.com/user-attachments/assets/db61f6d2-1330-44ef-91a4-fd90e0bd59ef" alt="sql server" width="42" height="40"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> 
+    <img src="https://github.com/user-attachments/assets/263d7ee7-810d-486e-9ed1-94f1962f28a1" alt="sql server" width="42" height="40"/>
   </a>
 
 </p>
