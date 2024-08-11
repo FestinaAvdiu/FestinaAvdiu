@@ -14,7 +14,6 @@
 
 
 ### Tech Skills
-  Java  |  SQL  |  MySQL  |  T-SQL  |  Database Management  |  C  |  C#  |  HTML  |  CSS  | JavaScript  |  Microsoft SQL Server 
  
 <p align="left"> 
   <a href="https://www.java.com/en/" target="_blank"> 
@@ -45,33 +44,39 @@
 
  
  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img src="https://img.shields.io/badge/T--SQL-1E90FF?style=for-the-badge&logo=tsql&logoColor=white" alt="T-SQL" width="50" height="40"/>
+    <img src="https://img.shields.io/badge/T--SQL-000000?style=for-the-badge&logo=tsql&logoColor=white" alt="T-SQL" width="50" height="40"/>
   </a>
   <a href="https://www.oracle.com/database/" target="_blank">
-  <img src="https://img.shields.io/badge/Database%20Management-1E90FF?style=for-the-badge&logo=database&logoColor=white" alt="Database Management" width="120" height="40"/>
- </a>
+  <img src="https://img.shields.io/badge/Database%20Management-000000?style=for-the-badge&logo=database&logoColor=white" alt="Database Management" width="120" height="40"/>
+</a>
+
   <a href="https://www.oracle.com/database/" target="_blank">
-    <img src="https://img.shields.io/badge/OOP-1E90FF?style=for-the-badge&logo=oop&logoColor=white" alt="OOP" width="50" height="40"/>
+    <img src="https://img.shields.io/badge/OOP-000000?style=for-the-badge&logo=oop&logoColor=white" alt="OOP" width="50" height="40"/>
   </a>
   <a href="https://www.agilealliance.org/agile101/" target="_blank">
-    <img src="https://img.shields.io/badge/Agile-1E90FF?style=for-the-badge&logo=agile&logoColor=white" alt="Agile" width="50" height="40"/>
+    <img src="https://img.shields.io/badge/Agile-000000?style=for-the-badge&logo=agile&logoColor=white" alt="Agile" width="50" height="40"/>
   </a>
   <a href="https://www.scrum.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Scrum-1E90FF?style=for-the-badge&logo=scrum&logoColor=white" alt="Scrum" width="50" height="40"/>
+    <img src="https://img.shields.io/badge/Scrum-000000?style=for-the-badge&logo=scrum&logoColor=white" alt="Scrum" width="50" height="40"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/Computer_network" target="_blank">
-    <img src="https://img.shields.io/badge/Computer%20Networks-1E90FF?style=for-the-badge&logo=computer-networks&logoColor=white" alt="Computer Networks" width="120" height="40"/>
+    <img src="https://img.shields.io/badge/Computer%20Networks-000000?style=for-the-badge&logo=computer-networks&logoColor=white" alt="Computer Networks" width="120" height="40"/>
   </a>
-  <a href="https://en.wikipedia.org/wiki/Internet_protocol_suite" target="_blank">
-    <img src="https://img.shields.io/badge/TCP/IP%20Architecture-1E90FF?style=for-the-badge&logo=tcp-ip&logoColor=white" alt="TCP/IP Architecture" width="120" height="40"/>
-  </a>
+<a href="https://en.wikipedia.org/wiki/Internet_protocol_suite" target="_blank">
+    <img src="https://img.shields.io/badge/TCP/IP%20Architecture-000000?style=for-the-badge&logo=tcp-ip&logoColor=white" alt="TCP/IP Architecture" width="120" height="40"/>
+</a>
+<a href="https://en.wikipedia.org/wiki/Internet_protocol_suite" target="_blank">
+    <img src="https://img.shields.io/badge/System_Theory-000000?style=for-the-badge&logo=tcp-ip&logoColor=white" alt="System Theory" width="100" height="40"/>
+</a>
+<a href="https://en.wikipedia.org/wiki/Internet_protocol_suite" target="_blank">
+    <img src="https://img.shields.io/badge/Project_Management-000000?style=for-the-badge&logo=tcp-ip&logoColor=white" alt="Project Management" width="120" height="40"/>
+</a>
+
  
 </p>
 
 
-### Tools
-
-Microsoft Office  |  VS  &  VS Code  |  IntelliJ  |  Matlab  |  Cisco Packet Tracer  |  AutoCAD  |  Dia Diagram  |  Tina-TI  |  GitHub  
+### Tools 
 
 <p align="left">
   <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank">
@@ -124,8 +129,33 @@ Microsoft Office  |  VS  &  VS Code  |  IntelliJ  |  Matlab  |  Cisco Packet Tra
 
    Growing with STEM Organization, Kosovo
 
+
 ### Soft Skills
-Problem Solving | Project Leadership | Mentorship | Teamwork | Time Management | Organizing | Planning | Attention to Detail 
+
+<a href="https://www.oracle.com/database/" target="_blank">
+    <img src="https://img.shields.io/badge/Problem_Solving-000000?style=for-the-badge&logo=problem-solving&logoColor=white" alt="Problem Solving" width="130" height="30"/>
+</a>
+<a href="https://www.agilealliance.org/agile101/" target="_blank">
+    <img src="https://img.shields.io/badge/Project_Leadership-000000?style=for-the-badge&logo=project-leadership&logoColor=white" alt="Project Leadership" width="130" height="30"/>
+</a>
+<a href="https://www.scrum.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Mentorship-000000?style=for-the-badge&logo=mentorship&logoColor=white" alt="Mentorship" width="70" height="30"/>
+</a>
+<a href="https://www.scrum.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Teamwork-000000?style=for-the-badge&logo=teamwork&logoColor=white" alt="Teamwork" width="70" height="30"/>
+</a>
+<a href="https://www.scrum.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Time_Management-000000?style=for-the-badge&logo=time-management&logoColor=white" alt="Time Management" width="130" height="30"/>
+</a>
+<a href="https://www.scrum.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Organizing-000000?style=for-the-badge&logo=organizing&logoColor=white" alt="Organizing" width="70" height="30"/>
+</a>
+<a href="https://www.scrum.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Planning-000000?style=for-the-badge&logo=planning&logoColor=white" alt="Planning" width="70" height="30"/>
+</a>
+<a href="https://www.scrum.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Attention_to_Detail-000000?style=for-the-badge&logo=attention-to-detail&logoColor=white" alt="Attention to Detail" width="130" height="30"/>
+</a>
 
 
 ### Connect with me:
