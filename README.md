@@ -4,9 +4,9 @@
 <h3 align="center"> Welcome to my GitHub profile! A snapshot of my coding journey and accomplishments.</h3>
 
 
-### My Projects
+### My Projects So Far
 
-- [NextGen ImpactMakers](https://github.com/FestinaAvdiu/Java-Project)
+- [NextGen ImpactMakers](https://github.com/FestinaAvdiu/Java-Project) 
 - [Car Service App](https://github.com/FestinaAvdiu/Java-Project)
 - [Payroll Master](https://github.com/FestinaAvdiu/Payroll-Master)
 - [Photography Website](https://github.com/FestinaAvdiu/Java-Project)
