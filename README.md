@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Festina Avdiu</h1>
 <h2 align="center">A passionate Computer Science Engineering student at University of Pécs, Hungary</h2>
 
-<h4 align="center"> Welcome to my GitHub profile! A snapshot of my coding journey and accomplishments. </h4>
+<p align="center"> Welcome to my GitHub profile! A snapshot of my coding journey and accomplishments. </p>
 
 
 
