@@ -136,13 +136,13 @@
 </p>
 
 ## Experience
--  **Software Developer Intern**
+-  ### **Software Developer Intern**
 
     SHPIK - Kosovo Informatics Society
-- **Logistics Team Leader**
+- ### **Logistics Team Leader**
 
   Google Developer Student Club of University of Pecs, Hungary
--  **Professional Mentor & Innovation Lead**
+-  ### **Professional Mentor & Innovation Lead**
 
    Growing with STEM Organization, Kosovo
 
