@@ -103,6 +103,18 @@
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="40" height="40"/>
   </a>
+
+  <a href="https://www.ti.com/tool/TINA-TI" target="_blank">
+  <img src="https://github.com/user-attachments/assets/1e58aa54-606e-4d76-888f-6df5587caa54" alt="Tina-TI" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> 
+    <img src="https://github.com/user-attachments/assets/db61f6d2-1330-44ef-91a4-fd90e0bd59ef" alt="sql server" width="42" height="40"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> 
+    <img src="https://github.com/user-attachments/assets/263d7ee7-810d-486e-9ed1-94f1962f28a1" alt="sql server" width="42" height="40"/>
+  </a>
+  
   <a href="https://www.cisco.com/c/en/us/products/index.html" target="_blank">
   <img src="https://github.com/user-attachments/assets/56f9411e-831e-47cb-90c9-4df0469f4de2" alt="Screenshot-2020-02-15-at-15 54 25"
 -attachments/assets/cisco_packet_tracer_logo.png" width="40" height="40"/>
@@ -119,16 +131,7 @@
     <img src="https://github.com/user-attachments/assets/5786f87f-96c4-42d7-8d4c-e891c168f43f" alt="Dia Diagram" width="40" height="40"/>
   </a>
   
-  <a href="https://www.ti.com/tool/TINA-TI" target="_blank">
-  <img src="https://github.com/user-attachments/assets/1e58aa54-606e-4d76-888f-6df5587caa54" alt="Tina-TI" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> 
-    <img src="https://github.com/user-attachments/assets/db61f6d2-1330-44ef-91a4-fd90e0bd59ef" alt="sql server" width="42" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> 
-    <img src="https://github.com/user-attachments/assets/263d7ee7-810d-486e-9ed1-94f1962f28a1" alt="sql server" width="42" height="40"/>
-  </a>
+  
 
 </p>
 
