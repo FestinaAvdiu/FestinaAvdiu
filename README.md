@@ -4,6 +4,20 @@
 <h4 align="center"> Welcome to my GitHub profile! A snapshot of my coding journey and accomplishments. </h4>
 
 
+
+### Experience
+-  ### **Software Developer Intern**
+
+   SHPIK - Kosovo Informatics Society
+- ### **Logistics Team Leader**
+
+  Google Developer Student Club of University of Pecs, Hungary
+-  ### **Professional Mentor & Innovation Lead**
+
+   Growing with STEM Organization, Kosovo
+
+
+
 ### My Projects So Far
 
 - [NextGen ImpactMakers](https://github.com/FestinaAvdiu/Java-Project) 
@@ -11,6 +25,7 @@
 - [Payroll Master](https://github.com/FestinaAvdiu/Payroll-Master)
 - [Photography Website](https://github.com/FestinaAvdiu/Java-Project)
 - [Poets Club Management System](https://github.com/FestinaAvdiu/Poets-Club-Management-System-)
+
 
 
 ### Tech Skills
@@ -135,16 +150,6 @@
 
 </p>
 
-## Experience
--  ### **Software Developer Intern**
-
-    SHPIK - Kosovo Informatics Society
-- ### **Logistics Team Leader**
-
-  Google Developer Student Club of University of Pecs, Hungary
--  ### **Professional Mentor & Innovation Lead**
-
-   Growing with STEM Organization, Kosovo
 
 
 ### Soft Skills
