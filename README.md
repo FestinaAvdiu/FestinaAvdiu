@@ -12,7 +12,7 @@
 - ### **Logistics Team Leader**
 
   Google Developer Student Club of University of Pecs, Hungary
--  ### **Professional Mentor & Innovation Lead**
+-  ### **Innovation Lead**
 
    Growing with STEM Organization, Kosovo
 
