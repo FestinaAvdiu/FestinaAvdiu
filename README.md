@@ -6,7 +6,7 @@
 
 
 ### Recent Experience
--  ### **Software Developer Intern**
+-  ### **Software Engineer Intern**
 
    SHPIK - Kosovo Informatics Society
 - ### **Logistics Team Leader**
