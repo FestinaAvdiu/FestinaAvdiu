@@ -16,10 +16,10 @@
 ### 🚀 Projects
 
 - [DataGenie](https://github.com/FestinaAvdiu/DataGenie) *(Thesis)*
-- [PLAEX Client Dashboard](#)
+- PLAEX Client Dashboard
 - [RPS Distributed Game](https://github.com/FestinaAvdiu/GameProject)
 - [Task Manager App](https://github.com/FestinaAvdiu/Task-Manager)
-- [Youth Engage Platform](https://github.com/DionKasumi/nextgen_impactmakers)
+- [YEP Platform - SHPIK](https://github.com/DionKasumi/nextgen_impactmakers)
 - [Car Service App](https://github.com/FestinaAvdiu/Java-Project)
 - [Payroll Master](https://github.com/FestinaAvdiu/Payroll-Master)
 - [Photography Portfolio](https://github.com/FestinaAvdiu/Photography-Portfolio)
