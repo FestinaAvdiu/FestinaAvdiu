@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Festina Avdiu</h1>
+<h1 align="center">Hi 👋, I'm Festina from Kosovo</h1>
 
-<h3 align="center">BSc. Computer Science Engineering · University of Pécs, Hungary · Graduated with distinction</h3>
-
+<h3 align="center">BSc. CSE · University of Pécs, Hungary</h3>
+<p align="center">Graduated with distinction · Feb 2026 🎓</p>
 
 ### 👩‍💻 Recent Experience
 
