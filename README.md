@@ -15,11 +15,11 @@
 
 ### 🚀 Projects
 
-- [DataGenie](#) *(Thesis)*
+- [DataGenie](https://github.com/FestinaAvdiu/DataGenie) *(Thesis)*
 - [PLAEX Client Dashboard](#)
-- [Rock Paper Scissors Game](#)
-- [Task Management Application](#)
-- [Youth Engagement Platform — NextGen ImpactMakers](https://github.com/DionKasumi/nextgen_impactmakers)
+- [RPS Game](https://github.com/FestinaAvdiu/GameProject)
+- [Task Manager App](https://github.com/FestinaAvdiu/Task-Manager)
+- [YEP Platform](https://github.com/DionKasumi/nextgen_impactmakers)
 - [Car Service App](https://github.com/FestinaAvdiu/Java-Project)
 - [Payroll Master](https://github.com/FestinaAvdiu/Payroll-Master)
 - [Photography Portfolio](https://github.com/FestinaAvdiu/Photography-Portfolio)
